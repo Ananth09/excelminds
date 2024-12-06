@@ -40,7 +40,7 @@ header nav ul li a {
 
 .hero {
     text-align: center;
-    background-image: url('C:/Users/anant/OneDrive/Desktop/excel_minds/images/hero3.jpeg'); /* Add the correct path to your image */
+    background-image: url('C:/Users/anant/OneDrive/Desktop/excel_minds/images/hero3.jpg'); /* Add the correct path to your image */
     background-size: cover;
     background-position: cover;
     padding: 120px 0;
@@ -299,7 +299,7 @@ section {
 
 /* Courses Section */
 #courses {
-    background: url('C:/Users/anant/OneDrive/Desktop/excel_minds/images/herob.jpeg') no-repeat center;
+    background: url('C:/Users/anant/OneDrive/Desktop/excel_minds/images/herob.jpg') no-repeat center;
     background-size: cover;
     color: #333;
     padding: 80px 20px;
