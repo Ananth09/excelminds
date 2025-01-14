@@ -137,7 +137,7 @@ p {
 
 h2 {
     text-align: center;
-    color: #ffffff; /* Bold blue */
+    color: #000d3c; /* Bold blue */
     margin-bottom: 30px;
 }
 
@@ -183,7 +183,7 @@ h2 {
 
 .header h3 {
     font-size: 1.8em;
-    color: #ffffff; /* Bold blue */
+    color: #002360; /* Bold blue */
 }
 
 /* Sub-Cards Styling */
