@@ -13,7 +13,7 @@ body, h1, h2, h3, p, ul, li {
 
 /* Header */
 header {
-    background-color: #001f3f; /* Deep navy blue */
+    background-color: #000241; /* Deep navy blue */
     color: white;
     padding: 10px 0;
 }
@@ -34,13 +34,13 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: #001f3f;
+    color: #ffffff;
     text-decoration: none;
 }
 
 .hero {
     text-align: center;
-    background-color: #000241; /* Add the correct path to your image */
+    background-color: #474ba592; /* Add the correct path to your image */
     background-size: cover;
     background-position: cover;
     padding: 120px 0;
