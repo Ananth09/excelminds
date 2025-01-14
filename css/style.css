@@ -285,7 +285,7 @@ section {
 
 /* Courses Section */
 #courses {
-    background: url('C:/Users/anant/OneDrive/Desktop/excel_minds/images/herob.jpeg') no-repeat center;
+    background: linear-gradient(to right, #4b79a1, #283e51);
     background-size: cover;
     color: #333333; /* Dark gray */
     padding: 80px 20px;
