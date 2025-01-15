@@ -278,7 +278,7 @@ section {
 
 /* About Us Section */
 #about {
-    background: linear-gradient(to right, #1b4e7c, #2ca3a3, #1b4e7c); /* Gradient from bold blue to light teal */
+    background: linear-gradient(to right, #0a0d6a, #292b7d, #0a0d6a); /* Gradient from bold blue to light teal */
     color: #ffffff; /* White text */
     padding: 80px 20px;
 }
